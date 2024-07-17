@@ -1,2 +1,5 @@
 # Electronic-Circuit
-電路學、網路分析(電路學-二)  線上課程OCW筆記 https://youtube.com/playlist?list=PL68D2uCy1WTMtp1m5TEJbKEt4kvlA4jLP&amp;si=rV5pLbxvIUShy4Ag
+電路學、網路分析(電路學-二)
+- 北科大-陳晏笙老師的電路學課程
+- 個人上課手寫筆記
+[線上課程OCW](https://youtube.com/playlist?list=PL68D2uCy1WTMtp1m5TEJbKEt4kvlA4jLP&amp;si=rV5pLbxvIUShy4Ag)
